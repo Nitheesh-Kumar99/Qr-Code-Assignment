@@ -7,3 +7,9 @@ Completed the First assignment from Front-end Mentor.
 - Google font
 - Favicon
 - Image
+
+# Live Sites
+
+Netlify- https://gleaming-salamander-5cdb5b.netlify.app
+
+Github- https://nitheesh-kumar99.github.io/Qr-Code-Assignment/
